@@ -20,7 +20,7 @@
     <string name="hm_file">文件</string>
     <string name="hm_fav">收藏</string>
     <string name="hm_setting">设置</string>
-    <string name="hm_style_line">一行显示</string>
+    <string name="hm_style_line">单行显示</string>
     <string name="hm_style_grid">多行显示</string>
     <string name="hm_hist_del">已删除当前记录</string>
     <string name="hm_cache_del">已删除缓存</string>
@@ -30,6 +30,7 @@
     <string name="det_expand">全屏</string>
     <string name="det_search">快搜</string>
     <string name="det_sort">倒序</string>
+    <string name="det_sort_normal">正序</string>
     <string name="det_push">推送</string>
     <string name="det_fav">收藏</string>
     <string name="det_fav_add">已添加收藏</string>
